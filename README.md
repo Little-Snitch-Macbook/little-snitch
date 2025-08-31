@@ -1,4 +1,4 @@
-# Little Snitch – Network Monitor
+# Little Snitch Mac – Network Monitor
 
 ![Little Snitch Mac Logo](https://upload.wikimedia.org/wikipedia/en/0/01/Little_Snitch_4_logo.png)  
 
